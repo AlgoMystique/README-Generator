@@ -11,17 +11,12 @@ Welcome to the README Generator! This tool helps you quickly create a high-quali
 ## Why a Great README is Important!
 
 Having a well-written README is essential for any open-source project on GitHub. It’s the first thing people see when they check out your project! A good README explains what your app does, how to use it, how to install it, and even how others can contribute or report issues. With a clear and detailed README, you make it easier for developers to engage with your project, increasing the chances they’ll help make it a success.
-## Technologies Used
 
 ## Technologies Used
 
 -Node.js
 -JavaScript
 -Inquirer (npm package)
-
-## Screen Capture
-
-![]
 
 ## Full Walkthrough Video
 
