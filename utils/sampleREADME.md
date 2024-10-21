@@ -1,10 +1,10 @@
-# readme
+# README-Generator 
   ![Github License](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
 
   ## Description 
 
-  readme readme readme
+  Professional README Generator created using Javascript and Node.js
 
 
   ## Installations  
@@ -17,7 +17,7 @@
 
   ## Usage 
 
-  readme
+  to create a README
 
   ## License 
 
@@ -42,4 +42,4 @@
   For additional questions, contact me at the email provided below. 
 
   - GitHub: [AlgoMystique](https://github.com/AlgoMystique/)
-  - Email:  sababa.tasnim29@gmail.colm
+  - Email:  sababa.tasnim29@gmail.com
