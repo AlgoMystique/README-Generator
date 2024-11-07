@@ -42,4 +42,4 @@
   For additional questions, contact me at the email provided below. 
 
   - GitHub: [AlgoMystique](https://github.com/AlgoMystique/)
-  - Email:  sababa.tasnim29@gmail.com
+  - Email:  john.doe@gmail.com
